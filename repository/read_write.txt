@@ -1,0 +1,5 @@
+2 2
+2 jjj jjj 232 jjj
+3 boxer Chuck 4 https://ro.wikipedia.org/wiki/Boxer
+4 gras Chuck 4 https://ro.wikipedia.org/wiki/Boxer
+1 bulldog Chuck 2 https://en.wikipedia.org/wiki/Bulldog

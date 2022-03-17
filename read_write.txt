@@ -1,0 +1,7 @@
+2 5
+7 husky da 5 www.google.ro
+4 gras Chuck 4 https://ro.wikipedia.org/wiki/Boxer
+1 bulldog Chuck 2 https://en.wikipedia.org/wiki/Bulldog
+6 cristi gras 2 www.google.ro
+2 jjj jjj 232 www.google.ro
+3 boxer Chuck 4 https://ro.wikipedia.org/wiki/Boxer
